@@ -19,13 +19,6 @@ Backend Engineer passionate about building scalable, high-impact systems, automa
 * **[NeutronsCrisisApp](https://github.com/akshara297/NeutronsCrisisApp)** - Accelerated Emergency Response and Crisis Coordination system designed for high-stakes hospitality environments. Built using JavaScript.
 * **[Election_Guide](https://github.com/akshara297/Election_Guide)** - A Python-based automation and data tool designed to streamline election guidelines and structured data analysis.
 
----
-
-### 📊 GitHub Analytics
-
-![Akshara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshara297&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-
 
 
 
