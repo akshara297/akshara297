@@ -41,7 +41,7 @@ I am a 2nd-year student at **G.L. Bajaj Institute of Technology and Management**
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akshara297&theme=radical" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshara297&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Akshara's Activity Graph" width="98%" />
 </p>
 
 ---
