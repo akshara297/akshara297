@@ -41,11 +41,12 @@ I am a 2nd-year student at **G.L. Bajaj Institute of Technology and Management**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=akshara297&theme=radical" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshara297&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Akshara's Activity Graph" width="98%" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-
-*   **LinkedIn:** [https://www.linkedin.com/in/akshara-khatri-951101282?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+<a href="https://www.linkedin.com/in/akshara-khatri-951101282?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
