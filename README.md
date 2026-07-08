@@ -1,39 +1,46 @@
 # Hi, I'm Akshara 👋
 
-Backend Engineer passionate about building scalable, high-impact systems, automation tools, and resolving large-scale infrastructure challenges. 
+### 🚀 Full-Stack Developer & Aspiring ML Engineer
+I am a 2nd-year student at **G.L. Bajaj Institute of Technology and Management**. I love solving complex problems using Data Structures & Algorithms, building robust full-stack applications, and exploring the endless possibilities of Artificial Intelligence and Machine Learning.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🌌 About Me
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+*   🎓 **Current Focus:** Sharpening my DSA skills in **Java** and building a strong foundation in **AI/ML**.
+*   🌱 **Currently Exploring:** Deep diving into Machine Learning workflows and Python libraries.
+*   🍃 **Beyond the Code:** When I'm not staring at a code editor, you can find me wandering in nature and getting lost in my thoughts.
 
 ---
 
-### 🚀 Featured Projects
+### 🧱 Tech Stack & Tools
 
-* **[NeutronsCrisisApp](https://github.com/akshara297/NeutronsCrisisApp)** - Accelerated Emergency Response and Crisis Coordination system designed for high-stakes hospitality environments. Built using JavaScript.
-* **[Election_Guide](https://github.com/akshara297/Election_Guide)** - A Python-based automation and data tool designed to streamline election guidelines and structured data analysis.
+#### 💛 Languages & Core
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
 
+#### 🌐 Web Development & DevOps
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshara297&show_icons=true&theme=buefy&rank_icon=github" alt="Akshara's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshara297&layout=compact&theme=buefy" alt="Top Langs" width="48%" />
+</p>
 
-<!--
-**akshara297/akshara297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **LinkedIn:** [https://www.linkedin.com/in/akshara-khatri-951101282?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+*   **Email:** [Your Email Here]
